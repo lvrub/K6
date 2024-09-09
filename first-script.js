@@ -8,7 +8,7 @@ thresholds:{
 http_req_duration:['p(95)<300']
 },
 cloud :{
-// projectID: 3713244
+projectID: 3713244
 }
 }
 
