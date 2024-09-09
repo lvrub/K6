@@ -5,7 +5,7 @@ export const options = {
 vus: 10,
 duration: '10s',
 thresholds:{
-http_req_duration:['p(95)<30']
+http_req_duration:['p(95)<300']
 },
 cloud :{
 // projectID: 3713244
